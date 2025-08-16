@@ -1,19 +1,7 @@
 {
-  "manifest": 1,
-  "name": "Everett's NONG Index",
-  "id": "everett-nong-index",
-  "description": "Custom songs for GD Nong Jukebox",
-  "lastUpdate": 1723850000,
-  "nongs": {
-    "hosted": {
-      "song504611": {
-        "name": "My Custom Song",
-        "artist": "Unknown Artist",
-        "startOffset": 0,
-        "url": "https://raw.githubusercontent.com/evevmon210/GD-JUKEBOX-/main/504611.mp3",
-        "songs": ["504611"],
-        "verifiedLevelIDs": []
-      }
-    }
-  }
+  "name": "My Custom Song",
+  "artist": "Artist Name",
+  "songs": [504611],
+  "source": "host",
+  "url": "https://raw.githubusercontent.com/evevmon210/GD-JUKEBOX-/main/504611.mp3"
 }
